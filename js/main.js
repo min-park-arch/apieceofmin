@@ -26,7 +26,7 @@ $("html").niceScroll({cursorwidth: '8px',cursorcolor:"#222222" , cursorborder:"1
 
 <script>
 function test(imageName) {
-    LoadingWithMask('images/loader.png');
+    LoadingWithMask('https://min-park-arch.github.io/apieceofmin/');
     setTimeout("closeLoadingWithMask()", 3000);
 }
  
